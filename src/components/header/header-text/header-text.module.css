@@ -7,7 +7,7 @@
   font-weight: 500;
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:855px) {
   .text__block{
     display: none;
   }

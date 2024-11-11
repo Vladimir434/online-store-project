@@ -8,7 +8,7 @@ const Header = () => {
     <header className={s.header}>
       <HeaderLogo/>
       <HeaderText/>
-      <HeaderButton bul={true}/>
+      <HeaderButton bul={false}/>
     </header>
   )
 }

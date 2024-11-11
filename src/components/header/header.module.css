@@ -5,4 +5,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 22px 0 22px;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
 }

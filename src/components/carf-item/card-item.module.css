@@ -25,7 +25,14 @@
   color: #fff;
   font-size: 12px;
   font-weight: 500;
-  margin-bottom:15px ;
+  margin-bottom: 15px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: blue;
+  color: #fff;
+  transform: translate(0,-5px);
 }
 .card__name{
   width: 100%;
