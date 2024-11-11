@@ -7,7 +7,7 @@ const HeaderButton = ({bul}) => {
     <div>
       {bul
         ? <img src={Logo} alt="" />
-        : <button className={s.button}>войти</button>
+        : <button className={s.button}>Войти</button>
       }
     </div>
   )
