@@ -31,9 +31,10 @@
   cursor: pointer;
 }
 .button:hover{
-  background-color: rgb(39, 39, 248);
+  background-color: #fff;
   color: #000;
   transform: translate(0,-5px);
+  border: 1px solid #000;
 }
 .card__name{
   width: 100%;
